@@ -7,4 +7,4 @@ Transforming the data for a "band" variable
 1. Clone or download the repository
 2. Run "npm install"
 3. Run "tsc"
-4. Run "node bandFunctions.ts". This will output the transformed data. 
+4. Run "node bandFunctions.js". This will output the transformed data. 
